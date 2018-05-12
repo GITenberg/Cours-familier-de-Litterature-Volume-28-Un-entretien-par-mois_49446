@@ -1,4 +1,8 @@
 _repo: Cours-familier-de-Litterature-Volume-28-Un-entretien-par-mois_49446
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49446-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Lamartine, Alphonse de
@@ -14,6 +18,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Alphonse_de_Lamartine
     - http://en.wikipedia.org/wiki/Alphonse_de_Lamartine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49446#Cours-familier-de-Litterature-Volume-28-Un-entretien-par-mois
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2015-07-15'
 gutenberg_type: Text
